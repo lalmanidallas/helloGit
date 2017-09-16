@@ -8,5 +8,8 @@ public class AssignedProductApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(AssignedProductApplication.class, args);
+		
+		
+		System.out.println("my first commit");
 	}
 }
