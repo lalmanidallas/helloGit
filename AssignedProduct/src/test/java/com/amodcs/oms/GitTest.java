@@ -8,6 +8,12 @@ public class GitTest {
 		
 		//this is original developer
 		
+		String[] names = {"hello","there","!!!","how","are","you","today"};
+		
+		for(String name : names) {
+			System.out.println(name);
+		}
+		
 	}
 
 }
