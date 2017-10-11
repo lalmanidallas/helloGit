@@ -16,8 +16,10 @@ public class GitTest {
 		for(String name : names) {
 			System.out.println(name);
 		}
-		System.out.println("donet");
-		
+		System.out.println("do not");
+		System.out.println("do not");
+		System.out.println("do not");
+		System.out.println("do not");
 
 	}
 
