@@ -13,6 +13,7 @@ public class GitTest {
 		for(String name : names) {
 			System.out.println(name);
 		}
+		System.out.println("donet");
 		
 	}
 
