@@ -1,4 +1,4 @@
-package com.amodcs.oms;
+package com.oms;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -10,6 +10,7 @@ public class AssignedProductApplication {
 		SpringApplication.run(AssignedProductApplication.class, args);
 		
 		
-		System.out.println("my first commit");
+		System.out.println("my 1st commit");
+		System.out.println("my 2nd commit");
 	}
 }
